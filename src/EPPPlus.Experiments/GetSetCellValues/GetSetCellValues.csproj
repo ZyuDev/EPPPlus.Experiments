@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{67EBBA36-042B-495B-98DC-22B4CAE402F3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ReportByFormulas</RootNamespace>
-    <AssemblyName>ReportByFormulas</AssemblyName>
+    <RootNamespace>GetSetCellValues</RootNamespace>
+    <AssemblyName>GetSetCellValues</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

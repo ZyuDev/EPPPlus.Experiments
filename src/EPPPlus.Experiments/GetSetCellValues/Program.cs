@@ -2,7 +2,7 @@ using OfficeOpenXml;
 using System;
 using System.IO;
 
-namespace ReportByFormulas
+namespace GetSetCellValues
 {
     class Program
     {
